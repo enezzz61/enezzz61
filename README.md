@@ -35,7 +35,7 @@ Other: JWT Auth, Hashing, API Integration
 
 📫 İletişim
 
-📩 Mail: ebsoftware@gmail.com
+📩 Mail: bayrammustafaenes@gmail.com
 
 💼 GitHub Projeleri: Burada aktif olarak güncelleniyor
 
